@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to your lucifer project
 
 ## Project info
 
-**URL**:https://lovable.dev/projects/f66516b9-d14b-4200-8d8c-11c5f580ba9d
+**URL**:https://deathdark-27-oai3.vercel.app/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a4e1cd9c-af6c-4d1f-8bb8-7103d050b0bd) and start prompting.
+Simply visit the [Lucifer Project](https://deathdark-27-oai3.vercel.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
