@@ -1,0 +1,9 @@
+.vscode/ 
+AppData/ 
+*/extensions/ 
+*.log 
+*.tmp 
+*.cache 
+node_modules/ 
+build/ 
+out/ 

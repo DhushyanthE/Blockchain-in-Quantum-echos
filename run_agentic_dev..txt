@@ -1,0 +1,40 @@
+@echo off
+chcp 65001 >nul
+echo ============================================
+echo 🚀 QuantumShield Agentic Dev Launcher
+echo ============================================
+
+REM Step 1: Verify key files
+set "AI_PATH=src\ai\AgentOrchestrator.ts"
+set "DASHBOARD_PATH=src\components\crypto\QuantumAnalysisDashboard.tsx"
+
+if exist "%AI_PATH%" (
+    echo ✅ Found AgentOrchestrator.ts
+) else (
+    echo ❌ Missing: %AI_PATH%
+    pause
+    exit /b
+)
+
+if exist "%DASHBOARD_PATH%" (
+    echo ✅ Found QuantumAnalysisDashboard.tsx
+) else (
+    echo ❌ Missing: %DASHBOARD_PATH%
+    pause
+    exit /b
+)
+
+REM Step 2: Install dependencies
+echo 📦 Installing dependencies...
+call npm install
+
+REM Step 3: Fix vulnerabilities (optional but clean)
+echo 🧹 Running npm audit fix...
+call npm audit fix --force
+
+REM Step 4: Launch Vite Dev Server
+echo 🚀 Starting Vite Dev Server...
+start "" http://localhost:8081/
+call npm run dev
+
+pause

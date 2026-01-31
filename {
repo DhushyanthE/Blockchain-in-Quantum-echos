@@ -1,0 +1,5 @@
+import { fetchCryptoData } from "@/services/cryptoApiService";
+import { runAutomationTasks } from "@/automation/AutoResponseEngine";
+import { analyzeTrends } from "@/ai/AdvancedAIPredictor";
+
+export const AgentOrchestrator = async (
