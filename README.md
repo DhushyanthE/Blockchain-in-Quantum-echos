@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your blockchain-in-quantum-echos project
 
 ## Project info
 
@@ -8,15 +8,15 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use VS CODE**
 
-Simply visit the [Quantum Project](https://blockchain-in-quantum-echos.vercel.app) and start prompting.
+Simply visit the [blockchain-in-quantum-echos Project](https://blockchain-in-quantum-echos.vercel.app) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via blockchain will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Quantum.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -24,10 +24,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/DhushyanthE/Blockchain-in-Quantum-echos/tree/main>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <Blockchain-in-Quantum-echos>
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -62,7 +62,7 @@ This project is built with .
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/a4e1cd9c-af6c-4d1f-8bb8-7103d050b0bd) and click on Share -> Publish.
+Simply open [blockchain-in-quantum-echos](https://blockchain-in-quantum-echos.vercel.app/) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
