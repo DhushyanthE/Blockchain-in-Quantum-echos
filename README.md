@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/a4e1cd9c-af6c-4d1f-8bb8-7103d050b0bd
+**URL**: https://blockchain-in-quantum-echos.vercel.app
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/a4e1cd9c-af6c-4d1f-8bb8-7103d050b0bd) and start prompting.
+Simply visit the [Quantum Project](https://blockchain-in-quantum-echos.vercel.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
